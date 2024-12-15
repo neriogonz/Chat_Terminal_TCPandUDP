@@ -1,0 +1,3 @@
+En el archivo config.ini hay que colocar la ip del servidor y ejecutar el script
+luego en el cliente hay que colocar la misma ip del servidor y ejecutar el script allí 
+se podrán enviar mensajes cliente a servidor 
